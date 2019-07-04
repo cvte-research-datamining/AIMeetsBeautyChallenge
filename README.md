@@ -9,6 +9,8 @@ pytorch 1.1
 h5py
 faiss
 pandas
+tensorboardX
+tqdm
 ```
 
 ## Get started

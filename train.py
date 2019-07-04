@@ -14,7 +14,7 @@ from tensorboardX import SummaryWriter
 
 warnings.filterwarnings('ignore')
 
-from model import MultiHeadResNet, MaskEncoder, EffNet, MultiHeadEffNet, MultiHeadMaskEncoder
+from model import MultiHeadResNet, MultiHeadEffNet, MultiHeadMaskEncoder
 from utils import PairedTransformImageWithMaskDataset, denormalize
 
 
