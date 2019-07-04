@@ -1,0 +1,9 @@
+# ignore unnecessary file.
+
+/evalset
+/val_2019
+*.zip
+*.pkl
+*.hdf5
+*.csv
+README
